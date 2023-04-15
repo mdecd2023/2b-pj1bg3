@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{'title': 'About', 'text': '41023210 \n 41023255 \n \n 成員名稱:徐佑寧 鄭翊均 \n \n', 'tags': '', 'url': 'About.html'}]};
+var tipuesearch = {"pages": [{'title': 'About', 'text': '四設二乙 41023210 鄭翊均 \n 四設二乙 41023255 徐佑寧 \n 倉儲連結 :\xa0 https://github.com/mdecd2023/2b-pj1bg3 \n 網站連結 :\xa0 https://mdecd2023.github.io/2b-pj1bg3/content/index.html \n \n', 'tags': '', 'url': 'About.html'}]};
